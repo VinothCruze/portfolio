@@ -4,7 +4,7 @@
 M.S in Information Technology(Specialization in Computer Hardware and Software)
 
 ### WORK EXPERIENCE
-Data Engineer & Process Analyst @Springer Nature
+#### Data Engineer & Process Analyst @Springer Nature
 •	Developed and maintained data pipelines using Apache Beam with Dataflow for efficient data loading from various data sources into Google Cloud Platform (GCP), following medallion architecture principles to BigQuery DWH.
 •	Implemented observability and resiliency mechanisms using Airflow alerts, logs, and custom failure recovery scripts. Integrated Cloud Pub/Sub and Cloud Functions to manage real-time events and alerts, reducing issue detection time drastically. 
 •	Reduced data quality issues by 25% via TDD implementation using dbt unit, integration testing, and SCD2 concepts with dbt snapshots to track records.
@@ -12,11 +12,11 @@ Data Engineer & Process Analyst @Springer Nature
 •	Collaborated closely with cross-functional teams for clean data delivery, improving downstream LLM model performance used for GenAI applications.
 •	Designed and developed Looker and Looker studio dashboards to address key business needs and provide actionable insights.
 
-Internship Big Data Analytics und Data Engineering @BMW AG
+#### Internship Big Data Analytics und Data Engineering @BMW AG
 •	Developed real-time KPI dashboards using Palantir Foundry, PySpark, and automated reports to reduce manual work by 20%.
 •	Implemented NLP workflows using AWS Sagemaker, Glue, and Redshift to cluster and translate defect reports.
 
-Application Development Analyst (Data Engineer & Analyst)
+#### Application Development Analyst (Data Engineer & Analyst)
 •	Engineered ELT pipelines in AWS using pyspark for integrating data from Oracle EBS, Salesforce, and flat files into Redshift and S3.
 •	Been part of data science and BI team and helped to prepare data sets and been point of contact for any issues. Created use cases with the team for the application of machine learning possibilities.
 •	Built a CapEx forecasting ML solution using Python, SQL, EMR, SageMaker and S3, which enabled early budget anomaly detection, saving ~$100K annually across global business units.
@@ -32,13 +32,13 @@ Application Development Analyst (Data Engineer & Analyst)
 
 ### TECHNICAL SKILLS
  
-•	Programming & Tools: Python, Pydantic, PySpark, SQL, JavaScript, Flask, Shell, GitHub Actions
-•	Data Engineering: Apache Beam, Apache Airflow (Cloud Composer), dbt, Dataflow, RAG, vector database, Redshift, S3, EMR, Glue, Snowflake
-•	CI/CD & Infrastructure: GitHub Actions, GCP Cloud Build, Terraform, Docker, REST APIs
-•	Cloud Platforms: Google Cloud Platform (GCP), AWS, Palantir Foundry
-•	Databases: Oracle 10g/11g/12c, PostgreSQL, MySQL, Sybase, NOSQL Database - Cassandra
-•	Testing & Monitoring: Test-Driven Development (TDD), Observability, Monitoring, Logging
-•	Visualization & Reporting: Looker, Power BI, d3.js, Celonis PQL
+•	#### Programming & Tools: Python, Pydantic, PySpark, SQL, JavaScript, Flask, Shell, GitHub Actions
+•	#### Data Engineering: Apache Beam, Apache Airflow (Cloud Composer), dbt, Dataflow, RAG, vector database, Redshift, S3, EMR, Glue, Snowflake
+•	#### CI/CD & Infrastructure: GitHub Actions, GCP Cloud Build, Terraform, Docker, REST APIs
+•	#### Cloud Platforms: Google Cloud Platform (GCP), AWS, Palantir Foundry
+•	#### Databases: Oracle 10g/11g/12c, PostgreSQL, MySQL, Sybase, NOSQL Database - Cassandra
+•	#### Testing & Monitoring: Test-Driven Development (TDD), Observability, Monitoring, Logging
+•	#### Visualization & Reporting: Looker, Power BI, d3.js, Celonis PQL
  
  
 ### CERTIFICATIONS
